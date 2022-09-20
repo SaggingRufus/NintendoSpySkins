@@ -6,8 +6,8 @@
     <button name="b1" image="circle.png" x="335" y="363" width="24" height="24" />
     <button name="b0" image="circle.png" x="288" y="377" width="24" height="24" />
  
-    <button name="b4" image="circle.png" x="50" y="30" width="44" height="14" />
-    <button name="b5" image="circle.png" x="420" y="30" width="44" height="14" />
+    <button name="b4" image="circle.png" x="117" y="270" width="44" height="14" />
+    <button name="b5" image="circle.png" x="352" y="270" width="44" height="14" />
 	
     <button name="b7" image="circle.png" x="271" y="505" width="14" height="14" />
     <button name="b6" image="circle.png" x="218" y="505" width="14" height="14" />
