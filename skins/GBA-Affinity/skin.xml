@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="GBA" author="SaggingRufus" type="generic">
+
+    <background name="Affinity" image="pad.png" />
+
+    <button name="b1" image="circle.png" x="442" y="105" width="24" height="24" />
+    <button name="b0" image="circle.png" x="396" y="121" width="24" height="24" />
+ 
+    <button name="b4" image="circle.png" x="50" y="30" width="44" height="14" />
+    <button name="b5" image="circle.png" x="420" y="30" width="44" height="14" />
+	
+    <button name="b7" image="circle.png" x="97" y="183" width="14" height="14" />
+    <button name="b6" image="circle.png" x="95" y="211" width="14" height="14" />
+
+
+    <button name="up"    image="circle.png" x="66" y="97" width="16" height="16" />
+    <button name="down"  image="circle.png" x="65" y="133" width="16" height="16" />
+    <button name="left"  image="circle.png" x="45" y="115" width="16" height="16" />
+    <button name="right" image="circle.png" x="85" y="115" width="16" height="16" />
+</skin>
